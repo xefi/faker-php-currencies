@@ -1,0 +1,50 @@
+{
+  "name": "xefi/faker-php-currencies",
+  "type": "library",
+  "version": "1.0.0",
+  "description": "Faker extension to manipulate currencies",
+  "keywords": [
+    "faker",
+    "data",
+    "seeding",
+    "fixtures"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ryan Bouanani"
+    },
+    {
+      "name": "Martin Soenen"
+    }
+  ],
+  "require": {
+    "php": "^8.3",
+    "psr/container": "^2.0",
+    "xefi/faker-php": "^0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11",
+    "ext-ctype": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Xefi\\Faker\\Currencies\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Xefi\\Faker\\Currencies\\Tests\\": "tests/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "extra": {
+    "faker": {
+      "providers": [
+        "Xefi\\Faker\\Currencies\\CurrenciesServiceProvider"
+      ]
+    }
+  }
+}

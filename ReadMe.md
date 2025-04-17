@@ -4,7 +4,7 @@
 
 This package is an extension of FakerPHP. [Click here](https://github.com/xefi/faker-php) to go to the core package.
 
-ReadMe and documentation will come soon.
+Thanks @Ryan-Bouanani for your contribution !
 
 ## Support us
 

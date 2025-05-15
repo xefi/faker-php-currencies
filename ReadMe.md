@@ -4,7 +4,7 @@
 
 This package is an extension of FakerPHP. [Click here](https://github.com/xefi/faker-php) to go to the core package.
 
-ReadMe and documentation will come soon.
+Please refer to the [documentation](https://faker-php.xefi.com/extensions/currencies) to understand it well.
 
 ## Support us
 

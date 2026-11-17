@@ -1,7 +1,6 @@
 {
   "name": "xefi/faker-php-currencies",
   "type": "library",
-  "version": "1.0.0",
   "description": "Faker extension to manipulate currencies",
   "keywords": [
     "faker",

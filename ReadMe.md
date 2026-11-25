@@ -1,4 +1,4 @@
-![versions](https://img.shields.io/badge/php-8.3-blue.svg) ![versions](https://img.shields.io/badge/php-8.4-blue.svg)
+![versions](https://img.shields.io/badge/php-8.3-blue.svg) ![versions](https://img.shields.io/badge/php-8.4-blue.svg) ![versions](https://img.shields.io/badge/php-8.5-blue.svg) ![versions](https://img.shields.io/badge/php-8.6-blue.svg)
 
 # Faker PHP - Currencies extension
 
